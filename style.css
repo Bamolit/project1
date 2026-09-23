@@ -657,8 +657,25 @@ a {
   justify-content: space-between;
   margin-bottom: 8px;
 }
-
-
+.Anh1-1 {
+  width: 64px;
+  height: 24px;
+  background-color: #e6eff5;
+  border-radius: 999px;
+  font-size: 11px;
+  color: #70787c;
+  display: flex;
+  padding: 4px 12px;
+  justify-content: center;
+  align-items: center;
+}
+.Anh1-2 {
+  color: #70787c;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .Anh2 {
   margin-bottom: 8px;
   font-size: 18px;
