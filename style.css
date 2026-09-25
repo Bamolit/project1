@@ -354,7 +354,7 @@ a {
   align-items: center;
 }
 .Khuvsgul {
-  background: url(/e0c329c922973b5b9e8f62271815be48e711f0c9.jpg) center/cover
+  background: url("./e0c329c922973b5b9e8f62271815be48e711f0c9.jpg") center/cover
     no-repeat;
   width: 680px;
   height: 420px;
@@ -372,7 +372,7 @@ a {
 }
 
 .Terkh {
-  background: url(/953f22841494489dceb8d5a638dae72523955681.jpg) center/cover
+  background: url("./953f22841494489dceb8d5a638dae72523955681.jpg") center/cover
     no-repeat;
   width: 479px;
   height: 420px;
@@ -380,14 +380,14 @@ a {
   border-radius: 10px;
 }
 .Khorgo {
-  background: url(/53d5622eacfb1c7902057a2c2aa0a86da0855965.jpg) center/cover
+  background: url("./53d5622eacfb1c7902057a2c2aa0a86da0855965.jpg") center/cover
     no-repeat;
   width: 479px;
   height: 380px;
   border-radius: 10px;
 }
 .Amar {
-  background: url(/734b14768a0409fb5668a8c7956b43ee5ae9a771.jpg) center/cover
+  background: url("./734b14768a0409fb5668a8c7956b43ee5ae9a771.jpg") center/cover
     no-repeat;
   width: 680px;
   height: 380px;
